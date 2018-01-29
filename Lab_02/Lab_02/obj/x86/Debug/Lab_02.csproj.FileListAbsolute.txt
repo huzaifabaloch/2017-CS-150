@@ -1,0 +1,4 @@
+c:\users\sunny ahmed\documents\visual studio 2010\Projects\Lab_02\Lab_02\bin\Debug\Lab_02.exe
+c:\users\sunny ahmed\documents\visual studio 2010\Projects\Lab_02\Lab_02\bin\Debug\Lab_02.pdb
+c:\users\sunny ahmed\documents\visual studio 2010\Projects\Lab_02\Lab_02\obj\x86\Debug\Lab_02.exe
+c:\users\sunny ahmed\documents\visual studio 2010\Projects\Lab_02\Lab_02\obj\x86\Debug\Lab_02.pdb
