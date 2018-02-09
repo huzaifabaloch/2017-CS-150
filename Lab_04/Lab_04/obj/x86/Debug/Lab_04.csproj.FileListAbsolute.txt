@@ -1,0 +1,5 @@
+c:\users\sunny ahmed\documents\visual studio 2010\Projects\Lab_04\Lab_04\bin\Debug\Lab_04.exe
+c:\users\sunny ahmed\documents\visual studio 2010\Projects\Lab_04\Lab_04\bin\Debug\Lab_04.pdb
+c:\users\sunny ahmed\documents\visual studio 2010\Projects\Lab_04\Lab_04\obj\x86\Debug\Lab_04.exe
+c:\users\sunny ahmed\documents\visual studio 2010\Projects\Lab_04\Lab_04\obj\x86\Debug\Lab_04.pdb
+C:\Users\sunny ahmed\documents\visual studio 2010\Projects\Lab_04\Lab_04\obj\x86\Debug\Lab_04.csprojResolveAssemblyReference.cache
